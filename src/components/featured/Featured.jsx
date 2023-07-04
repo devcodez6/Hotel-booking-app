@@ -7,12 +7,12 @@ const Featured = () => {
         <div className="featuredItem">
             <img src="https://images.propertypro.ng/medium/3bdrm-terrace-duplex-duplex-with-bq-8C0WrSdBNmf8CAgo1JO0.jpeg" />
             <div className='featuredTitle'>
-                <h1>Ilumeju</h1>
+                <h1>Ilupeju</h1>
                 <h2>325 properties</h2>
             </div>
         </div>
         <div className="featuredItem">
-            <img src="https://pbs.twimg.com/media/EprKgksXEAAOVlL?format=jpg&name=4096x4096" alt="" className="featuredImg" />
+            <img src="https://images.nigeriapropertycentre.com/properties/images/thumbs/1735569/064621b0b12909-newly-built-4bedroom-terrace-duplex-with-bq-terraced-duplexes-for-sale-oniru-victoria-island-lagos.jpg" alt="" className="featuredImg" />
             <div className= "featuredTitle">
                 <h1>Victoria Island</h1>
                 <h2>213 properties</h2>
